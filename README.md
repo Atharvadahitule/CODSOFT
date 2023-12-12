@@ -1,4 +1,4 @@
-##WELCOME TO MY 1ST PROJECT ON TO-DO-LIST##
+__WELCOME TO MY 1ST PROJECT ON TO-DO-LIST__
 
 
 A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. 
